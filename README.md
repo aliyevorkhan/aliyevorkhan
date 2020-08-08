@@ -32,7 +32,7 @@ Software Engineer specializing in Computer Vision, Artificial Neural Networks an
 - 📫 How to reach me: orxanaliyev19@gmail.com;
 
 **Follow Me**
-<br/>
+
 <a href="https://www.linkedin.com/in/aliyevorkhan1/">
   <img align="left" alt="Orkhan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
