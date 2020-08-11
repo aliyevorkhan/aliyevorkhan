@@ -43,4 +43,4 @@ Software Engineer specializing in Computer Vision, Artificial Neural Networks an
   <img align="left" alt="Orkhan's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackerrank.svg" />
 </a>
 <br/><br/>
-_This readme cloned from_ <a href="https://github.com/abhisheknaiidu">*abhisheknaiidu's readme*</a>
+This readme cloned from <a href="https://github.com/abhisheknaiidu">abhisheknaiidu's readme</a>
