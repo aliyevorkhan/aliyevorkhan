@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Orkhan!](https://github.com/aliyevorkhan) 
 
-Software Engineer specializing in Computer Vision, Artificial Neural Networks and Desktop Softwares. Experienced with a lot of stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including C++, C#, Python. Strong background in project management.
+Computer Engineer specializing in Computer Vision, Artificial Neural Networks and Desktop Softwares. Experienced with a lot of stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including C++, C#, Python. Strong background in project management.
 
 **Languages and Tools:**  
 
@@ -25,11 +25,12 @@ Software Engineer specializing in Computer Vision, Artificial Neural Networks an
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working AI stuffs. Here is [My Repositories](https://github.com/aliyevorkhan?tab=repositories);
-- 🌱 I’m currently learning ASP.NET MVC; 
+- 👨🏽‍💻 I’m currently working on Deep Learning projects. Here is [My Repositories](https://github.com/aliyevorkhan?tab=repositories);
+- 🌱 I’m currently learning High Level Deep Learning APIs. 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Interesting-Fact: I'm really fast to learn something new and I'm open for new technologies too.
 - 📫 How to reach me: orxanaliyev19@gmail.com;
+- Also check my <a href="https://aliyevorkhan.github.io/">portfolio</a> out
 
 **Follow Me**
 
@@ -43,4 +44,4 @@ Software Engineer specializing in Computer Vision, Artificial Neural Networks an
   <img align="left" alt="Orkhan's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackerrank.svg" />
 </a>
 <br/><br/>
-This readme cloned from <a href="https://github.com/abhisheknaiidu">abhisheknaiidu's readme</a>
+<sup>This readme cloned from <a href="https://github.com/abhisheknaiidu">abhisheknaiidu's readme</a></sup>
