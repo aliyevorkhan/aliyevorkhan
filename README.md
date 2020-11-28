@@ -30,7 +30,7 @@ Computer Engineer specializing in Computer Vision, Artificial Neural Networks an
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Interesting-Fact: I'm really fast to learn something new and I'm open for new technologies too.
 - 📫 How to reach me: orxanaliyev19@gmail.com;
-- Also check my <a href="https://aliyevorkhan.github.io/">portfolio</a> out
+- Also check my <a href="https://orkh.tech/">portfolio</a> out
 
 **Follow Me**
 
