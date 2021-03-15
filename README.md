@@ -3,17 +3,16 @@
 Computer Engineer specializing in Computer Vision, Artificial Neural Networks and Desktop Softwares. Experienced with a lot of stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including C++, C#, Python. Strong background in project management.
 
 **Languages and Tools:**  
-
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://www.cnjobs.dk/drupal/sites/default/files/2019-01/csharp-01.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/5200/0*SxX1UD9Ok_VaCgO-.png"></code>
 <code><img height="40" src="https://img2.pngindir.com/20180531/kph/kisspng-gnu-linux-naming-controversy-linux-distribution-li-5b0f779c7eda37.7835322215277403165196.jpg"></code>
 <code><img height="40" src="https://seeklogo.com/images/O/opencv-logo-2E094ACFAC-seeklogo.com.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/480/1*MCpM5idqhNRjoWCfb_60OA.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/2894/0*91DAY0P8BdXHdp7l.png"></code>
-<code><img height="40" src="https://www.openmp.org/wp-content/uploads/openmp-enabling-hpc-since-1997.png"></code>
 <code><img height="40" src="https://miro.medium.com/fit/c/1838/551/1*wwnExqe720PPHykHhs5Hqw.png"></code>
+<code><img height="40" src="https://www.openmp.org/wp-content/uploads/openmp-enabling-hpc-since-1997.png"></code>
 <code><img height="40" src="https://img2.pngindir.com/20180806/pla/kisspng-visual-studio-2010-d%C3%A9veloppez-pour-le-web-avec-c-inicio-resyst-softwares-5b6887f22b0353.2037366115335772021762.jpg"></code>
 <code><img height="40" src="https://img.favpng.com/17/5/2/asp-net-mvc-logo-net-framework-model-view-controller-png-favpng-v24xiWvwG7hnY9K1Y9P8y3tfs.jpg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
