@@ -26,6 +26,3 @@ Computer Engineer specializing in Computer Vision, Artificial Neural Networks an
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Interesting-Fact: I'm really fast to learn something new.
 - 📫 How to reach me: orxanaliyev19@gmail.com;
-
-<br/><br/>
-<sup>This readme cloned from <a href="https://github.com/abhisheknaiidu">abhisheknaiidu's readme</a></sup>
