@@ -4,7 +4,6 @@ Computer Engineer specializing in Computer Vision, Artificial Neural Networks an
 
 **Languages and Tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://img2.pngindir.com/20180531/kph/kisspng-gnu-linux-naming-controversy-linux-distribution-li-5b0f779c7eda37.7835322215277403165196.jpg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/480/1*MCpM5idqhNRjoWCfb_60OA.png"></code>
